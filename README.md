@@ -1,5 +1,11 @@
-Tabii, işte projeniz için eğlenceli ve açıklayıcı bir **README.md** dosyası:
-
+> **⭐ 10 Yıldıza Özel!**
+> 
+> 10 yıldıza ulaştığımızda, şu özellikleri içeren güçlü bir güncelleme yayınlanacak:
+> - Gelişmiş metrik takibi 📊
+> - Telegram entegrasyonu 📱
+> - Özelleştirilebilir bildirim şablonları ✨
+> - Detaylı raporlama sistemi 📑
+> - Web arayüzü 🌐
 ---
 
 # Website Monitoring 🚀
