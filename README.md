@@ -20,7 +20,7 @@
 Öncelikle bu projeyi bilgisayarınıza klonlayın:
 
 ```bash
-git clone https://github.com/rasperon/website-monitor.git
+git clone https://github.com/rasperon/website-monitoring.git
 cd website-monitor
 ```
 
